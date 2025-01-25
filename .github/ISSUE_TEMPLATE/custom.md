@@ -1,4 +1,12 @@
-﻿<!-- 
+﻿---
+name: Issue report
+about: ''
+title: ''
+labels: ''
+assignees: ''
+---
+
+<!-- 
 PLEASE READ THIS CAREFULLY:
 
 1. You *MUST* read and complete the steps from the checklist below, by placing
